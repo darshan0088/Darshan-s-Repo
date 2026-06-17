@@ -1,2 +1,3 @@
 # Darshan-s-Repo
-This is my first GIt Repository
+This is my first Git Repository
+Author - Darshan sen
